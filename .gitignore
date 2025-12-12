@@ -1,0 +1,56 @@
+# =============== #
+# Unity / Geral   #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Cache de pacotes
+[Pp]ackages/com.unity.package-manager-ui/
+[Pp]ackages/com.unity.ide.rider/
+
+# Asset Store
+[Aa]sset[s]/AssetStoreTools*
+
+# User settings
+UserSettings/
+*.userprefs
+
+# =============== #
+#   IDEs          #
+# =============== #
+
+# VS / Rider / JetBrains
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+
+# =============== #
+# Sistema         #
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Unity Cloud     #
+# =============== #
+.sysinfo/

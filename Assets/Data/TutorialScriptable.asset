@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c2659adae17764da577f710e953fc7, type: 3}
+  m_Name: TutorialScriptable
+  m_EditorClassIdentifier: 
+  tutorialSteps:
+  - "Seja bem-vindo \xE0 Pizzaria do Romulito! Vou te ensinar como jogar, clique
+    no texto para ir para o pr\xF3ximo dialogo."
+  - "Aqui, vamos aprender sobre fra\xE7\xF5es de um jeito divertido: montando pizzas!"
+  - "Voc\xEA vai me ajudar a preparar pizzas usando fra\xE7\xF5es."
+  - "N\xE3o se preocupe com o tamanho das fatias \u2014 o que importa \xE9 quantas
+    fatias existem e quais sabores elas ter\xE3o."
+  - "Lembre-se: uma fra\xE7\xE3o representa uma parte de um todo."
+  - "Por exemplo: se temos 2 fatias de um total de 4, isso forma a fra\xE7\xE3o 2/4."
+  - "E \xE9 exatamente assim que vamos montar nossas pizzas!"
+  - "O n\xFAmero total de fatias \xE9 o valor inteiro, e cada sabor representa uma
+    parte desse total."
+  - Temos duas ferramentas, o rolo de corte para fatiar a pizza e a luva.
+  - Caso selecione um dos nossos ingredientes basta clicar na fatia que deseja colocar
+    o ingrediente.
+  - Quando finalizar o pedido basta apertar no icone do sino ao lado da pizza.
+  - "Caso queira descartar a pizza pode clicar no bot\xE3o de lixo em baixo do icone
+    de sininho."
+  - "Se tiver alguma d\xFAvida no caminho, \xE9 s\xF3 clicar no bot\xE3o de interroga\xE7\xE3o
+    para rever esta explica\xE7\xE3o."
+  - "Pronto? Ent\xE3o vamos come\xE7ar a montar pizzas deliciosas com fra\xE7\xF5es!"
+  - 

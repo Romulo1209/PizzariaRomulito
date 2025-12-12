@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb5f242acf2eee479c574a1816c0d2e, type: 3}
+  m_Name: Character 3
+  m_EditorClassIdentifier: 
+  characterName: Character3
+  characterSpriteIdle: {fileID: 21300000, guid: 309437b9b997e854b93b07ba7ab75d20, type: 3}
+  characterSpriteHappy: {fileID: 21300000, guid: 10088d1b81c260749b5efa93b2e28efc, type: 3}
+  characterSpriteSad: {fileID: 21300000, guid: 5d1248858d01b9d429e0ec2585a29537, type: 3}
